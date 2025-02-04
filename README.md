@@ -1,0 +1,1 @@
+# CLEF2025GenAIDetection-Subtask2
