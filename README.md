@@ -32,21 +32,20 @@ We have released our training and dev set.
 Competition is held on ???
 
 ## Dataset
-**Download the training and dev sets** by [Google Drive]().
+**Download the training and dev sets** by [Google Drive](https://drive.google.com/file/d/1faPRkoOG8UsPK7KVBHW-edmyH3ELFoSw/view?usp=sharing).
 
 #### Statistics:
 ## Label Distribution
 
 | Label Category                                               | Count     |
 |-------------------------------------------------------------|----------:|
-| Fully machine-written                                       | 200,393   |
 | Machine-written, then machine-humanized                    | 114,337   |
-| Human-written, then machine-polished                       | 105,660   |
+| Human-written, then machine-polished                       | 107,760   |
 | Fully human-written                                         | 89,787    |
-| Human-initiated, then machine-continued                    | 47,310    |
-| Deeply-mixed text (human + machine parts)                  | 14,871    |
-| Machine-written, then human-edited                         | 2,183     |
-| **Total**                                                  | **574,541** |
+| Human-initiated, then machine-continued                    | 47,910    |
+| Deeply-mixed text (human + machine parts)                  | 15,171    |
+| Machine-written, then human-edited                         | 2,783     |
+| **Total**                                                  | **377,748** |
 
 
 ## <a name="important_dates"></a>Important Dates
@@ -67,18 +66,11 @@ All dates are AoE.
 - Yuxia Wang, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Ekaterina Artemova, Toloka AI, Netherlands
-- Osama Mohammed Afzal, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jonibek Mansurov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Zhuohan Xie, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jinyan Su, Cornell University, USA
 - Akim Tsvigun, Nebius AI, Netherlands
-- Giovanni Puccetti, Institute of Information Science and Technology “A. Faedo”, Italy
 - Rui Xing, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Tarek Mahmoud, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Jiahui Geng, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Masahiro Kaneko, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Ryuto Koike, Tokyo Institute of Technology, Japan
-- Fahad Shamshad, Mohamed bin Zayed University of Artificial Intelligence, UAE
 
 
 ## Contacts
