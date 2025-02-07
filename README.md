@@ -32,20 +32,20 @@ We have released our training and dev set.
 Competition is held on ???
 
 ## Dataset
-**Download the training and dev sets** by [Google Drive](https://drive.google.com/file/d/1faPRkoOG8UsPK7KVBHW-edmyH3ELFoSw/view?usp=sharing).
+**Download the training and dev sets** by [Google Drive](https://drive.google.com/drive/folders/1eTd82aMG0cmbVcIbTMcGVq2aJpFlIV0C?usp=sharing).
 
 #### Statistics:
 ## Label Distribution
 
-| Label Category                                               | Count     |
-|-------------------------------------------------------------|----------:|
-| Machine-written, then machine-humanized                    | 114,337   |
-| Human-written, then machine-polished                       | 107,760   |
-| Fully human-written                                         | 89,787    |
-| Human-initiated, then machine-continued                    | 47,910    |
-| Deeply-mixed text (human + machine parts)                  | 15,171    |
-| Machine-written, then human-edited                         | 2,783     |
-| **Total**                                                  | **377,748** |
+| Label Category                                               | Train     | Dev |
+|-------------------------------------------------------------|----------:| ----------:|
+| Machine-written, then machine-humanized                    | 81,095   | 20,274 |
+| Human-written, then machine-polished                       | 86,150   | 21,537 |
+| Fully human-written                                         | 70,080    | 17,520 |
+| Human-initiated, then machine-continued                    | 38,328    | 9,582 |
+| Deeply-mixed text (human + machine parts)                  | 12,108    | 3,027 |
+| Machine-written, then human-edited                         | 1,502     | 376 |
+| **Total**                                                  | **289,263** | **72,316** |
 
 
 ## <a name="important_dates"></a>Important Dates
