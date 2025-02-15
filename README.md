@@ -39,13 +39,13 @@ Competition is held on ???
 
 | Label Category                                               | Train     | Dev |
 |-------------------------------------------------------------|----------:| ----------:|
-| Machine-written, then machine-humanized                    | 81,095   | 20,274 |
-| Human-written, then machine-polished                       | 86,150   | 21,537 |
-| Fully human-written                                         | 70,080    | 17,520 |
-| Human-initiated, then machine-continued                    | 38,328    | 9,582 |
-| Deeply-mixed text (human + machine parts)                  | 12,108    | 3,027 |
-| Machine-written, then human-edited                         | 1,502     | 376 |
-| **Total**                                                  | **289,263** | **72,316** |
+| Machine-written, then machine-humanized                    | 91,232   | 10,137 |
+| Human-written, then machine-polished                       | 95,398   | 12,289 |
+| Fully human-written                                         | 75,270    | 12,330 |
+| Human-initiated, then machine-continued                    | 10,740    | 37,170 |
+| Deeply-mixed text (human + machine parts)                  | 14,910    | 225 |
+| Machine-written, then human-edited                         | 1,368     | 510 |
+| **Total**                                                  | **288,918** | **72,661** |
 
 
 ## <a name="important_dates"></a>Important Dates
@@ -54,8 +54,15 @@ All dates are AoE.
 - --th February, 2025: Training/dev set release
 
 
-## <a name="baselines"></a>Baselines
+## <a name="baselines"></a>Baseline
+```python
+python baseline.py --train_file_path subtask2_train.jsonl --dev_file_path subtask2_dev.jsonl --test_file_path subtask2_dev.jsonl --model roberta-base --prediction_file_path clef_prediction.csv
+```
 
+RoBERTa-base results: 
+- Accuracy: 57.61%
+- Macro F1: 61.26%
+- Weighted F1: 54.82%
 
 ## Organizers
 
