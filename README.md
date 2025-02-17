@@ -7,7 +7,7 @@
 </p>
 
 
-[News](#news) | [Competition](#competition) | [Dataset](#dataset) | [Important Dates](#important_dates) | [Baselines](#baselines) | [Organizers](#organizers) | [Contacts](#contacts)
+[News](#news) | [Dataset](#dataset) | [Important Dates](#important_dates) | [Baselines](#baselines) | [Organizers](#organizers) | [Contacts](#contacts)
 
 As large language models (LLMs) like GPT-4o, Claude 3.5, and Gemini 1.5-pro become increasingly accessible, machine-generated content is proliferating across diverse domains, including news, social media, education, and academia. These models produce highly fluent and coherent text, making them valuable for automating various writing tasks. However, their widespread use also raises concerns about misinformation, academic integrity, and content authenticity. Identifying the degree of human and machine involvement in text creation is crucial for addressing these challenges.
 
@@ -24,12 +24,12 @@ Accurately distinguishing between these categories will enhance our understandin
 
 
 ## NEWS 
-### -- Feb 2025
+### 17 Feb 2025
 
 We have released our training and dev set.
 
-## Competition
-Competition is held on ???
+<!-- ## Competition
+Competition is held on ??? -->
 
 ## Dataset
 **Download the training and dev sets** by [Google Drive](https://drive.google.com/drive/folders/1eTd82aMG0cmbVcIbTMcGVq2aJpFlIV0C?usp=sharing).
@@ -51,7 +51,7 @@ Competition is held on ???
 ## <a name="important_dates"></a>Important Dates
 All dates are AoE.
 
-- --th February, 2025: Training/dev set release
+- 17th February, 2025: Training/dev set release
 
 
 ## <a name="baselines"></a>Baseline
@@ -82,5 +82,5 @@ RoBERTa-base results:
 
 ## Contacts
 
-Website: []()  
-Email: 
+<!-- Website: []()   -->
+<!-- Email:  -->
