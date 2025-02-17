@@ -52,6 +52,8 @@ Competition is held on ??? -->
 All dates are AoE.
 
 - 17th February, 2025: Training/dev set release
+- TBA: Test set release
+- TBA: Final submission
 
 
 ## <a name="baselines"></a>Baseline
@@ -83,4 +85,4 @@ RoBERTa-base results:
 ## Contacts
 
 <!-- Website: []()   -->
-<!-- Email:  -->
+Emails: yuxia.wang@mbzuai.ac.ae, jonibek.mansurov@mbzuai.ac.ae, preslav.nakov@mbzuai.ac.ae, artem.shelmanov@mbzuai.ac.ae
