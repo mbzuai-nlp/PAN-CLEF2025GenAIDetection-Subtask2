@@ -63,9 +63,9 @@ python baseline.py --train_file_path subtask2_train.jsonl --dev_file_path subtas
 ```
 
 RoBERTa-base results: 
-- Accuracy: 57.61%
+- Accuracy: 56.71%
 - Macro F1: 61.26%
-- Weighted F1: 54.82%
+- Macro Recall: 68.67% (Oficial metric)
 
 ## Organizers
 
