@@ -51,10 +51,11 @@ Competition is held on ??? -->
 ## <a name="important_dates"></a>Important Dates
 All dates are AoE.
 
-- 17th February, 2025: Training/dev set release
-- TBA: Test set release
-- TBA: Final submission
-
+- February 17, 2025: Training/dev set release
+- May 16, 2025: Test set release
+- May 23, 2025: Final submission deadline
+- May 30, 2025: Participant paper submission
+- June 27, 2025: Peer review notification
 
 ## <a name="baselines"></a>Baseline
 ```python
