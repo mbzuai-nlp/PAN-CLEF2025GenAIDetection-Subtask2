@@ -23,7 +23,7 @@ def evaluate(pred_fpath, gold_fpath):
     }
   """
   
-  gold_labels = pd.read_json(gold_fpath, lines=True)[['id', 'label']]
+  gold_labels = pd.read_json(gold_fpath, lines=True)[['label']]
   gold_labels['id'] = gold_labels.index
   pred_labels = pd.read_csv(pred_fpath)[['id', 'label']]
   
