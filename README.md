@@ -24,6 +24,10 @@ Accurately distinguishing between these categories will enhance our understandin
 
 
 ## NEWS 
+### 22 April 2025
+
+We have set up the submission platform, please submit your predictions to CodaLab: [Submit](https://codalab.lisn.upsaclay.fr/competitions/22620)
+
 ### 17 Feb 2025
 
 We have released our training and dev set.
