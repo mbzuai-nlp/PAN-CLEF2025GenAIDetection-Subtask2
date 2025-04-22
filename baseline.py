@@ -179,7 +179,7 @@ if __name__ == '__main__':
     logging.info(results)
     predictions_df = pd.DataFrame({'id': test_df.index, 'label': predictions})
     # predictions_df.to_csv(prediction_path, index=False)
-    predictions_df.to_json(prediction_path, lines=True, prient='records)
+    predictions_df.to_json(prediction_path, lines=True, orient='records)
 
 
 
