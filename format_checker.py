@@ -26,9 +26,10 @@ def check_format(file_path):
     return False
   
   try:
-    submission = pd.read_csv(file_path)[['id', 'label']]
+    # submission = pd.read_csv(file_path)[['id', 'label']]
+    submission = pd.read_json(file_path, lines=True)[['id', 'label']]
   except:
-    logging.error("File is not a valid csv file: {}".format(file_path))
+    logging.error("File is not a valid jsonl file: {}".format(file_path))
     return False
   
   for column in COLUMNS:
