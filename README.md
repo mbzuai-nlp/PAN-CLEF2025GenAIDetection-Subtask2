@@ -24,6 +24,14 @@ Accurately distinguishing between these categories will enhance our understandin
 
 
 ## NEWS 
+
+### 18 May 2025
+📢 Update on Test Set Release Delay
+
+We sincerely apologize for the delay in releasing the test set. We are currently finalizing the data and conducting a final quality check to ensure its reliability. The new release date is **May 20**, allowing participants to concentrate on the upcoming EMNLP deadline in the meantime.
+
+Thank you for your understanding and patience!
+
 ### 22 April 2025
 
 We have set up the submission platform, please submit your predictions to CodaLab: [Submit](https://codalab.lisn.upsaclay.fr/competitions/22620)
@@ -56,7 +64,7 @@ Competition is held on ??? -->
 All dates are AoE.
 
 - February 17, 2025: Training/dev set release
-- May 16, 2025: Test set release
+- May 20, 2025: Test set release
 - May 23, 2025: Final submission deadline
 - May 30, 2025: Participant paper submission
 - June 27, 2025: Peer review notification
