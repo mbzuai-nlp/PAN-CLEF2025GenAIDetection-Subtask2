@@ -24,6 +24,15 @@ Accurately distinguishing between these categories will enhance our understandin
 
 
 ## NEWS 
+### 20 May 2025
+#### 📢 Announcement for Participants
+We sincerely apologize for the delay in releasing the test set. To ensure all teams have sufficient time, we have decided to extend the submission deadline to **24 May (AOE time)**.
+
+Please note that due to an issue on CodaLab: no option to add a new testing phase to an existing competition, **Test predictions must be submitted to a new competition link (TBA).**
+- 📥 Download the test set: [Google Drive](https://drive.google.com/drive/folders/1eTd82aMG0cmbVcIbTMcGVq2aJpFlIV0C?usp=sharing)
+- 📤 Submit your predicted labels: Test-stage CodaLab (submission link TBA)
+
+Thank you for your understanding and continued participation.
 
 ### 18 May 2025
 📢 Update on Test Set Release Delay
@@ -65,7 +74,7 @@ All dates are AoE.
 
 - February 17, 2025: Training/dev set release
 - May 20, 2025: Test set release
-- May 23, 2025: Final submission deadline
+- May 24, 2025: Final submission deadline
 - May 30, 2025: Participant paper submission
 - June 27, 2025: Peer review notification
 
