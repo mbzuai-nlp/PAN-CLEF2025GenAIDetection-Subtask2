@@ -30,6 +30,7 @@ We sincerely apologize for the delay in releasing the test set. To ensure all te
 
 Please note that due to an issue on CodaLab: no option to add a new testing phase to an existing competition, **Test predictions must be submitted to a new competition link (TBA).**
 - 📥 Download the test set: [Google Drive](https://drive.google.com/drive/folders/1eTd82aMG0cmbVcIbTMcGVq2aJpFlIV0C?usp=sharing)
+- 📤 Check [submission instructions](https://github.com/mbzuai-nlp/PAN-CLEF2025GenAIDetection-Subtask2/blob/main/README.md#submission-instructions)
 - 📤 Submit your predicted labels: Test-stage CodaLab (submission link TBA)
 
 Thank you for your understanding and continued participation.
