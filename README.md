@@ -28,10 +28,10 @@ Accurately distinguishing between these categories will enhance our understandin
 #### 📢 Announcement for Participants
 We sincerely apologize for the delay in releasing the test set. To ensure all teams have sufficient time, we have decided to extend the submission deadline to **24 May (AOE time)**.
 
-Please note that due to an issue on CodaLab: no option to add a new testing phase to an existing competition, **Test predictions must be submitted to a new competition link (TBA).**
+Please note that due to an issue on CodaLab: no option to add a new testing phase to an existing competition, **Test predictions must be submitted to a [new competition link](https://codalab.lisn.upsaclay.fr/competitions/22934).**
 - 📥 Download the test set: [Google Drive](https://drive.google.com/drive/folders/1eTd82aMG0cmbVcIbTMcGVq2aJpFlIV0C?usp=sharing)
 - 📤 Check [submission instructions](https://github.com/mbzuai-nlp/PAN-CLEF2025GenAIDetection-Subtask2/blob/main/README.md#submission-instructions)
-- 📤 Submit your predicted labels: Test-stage CodaLab (submission link TBA)
+- 📤 Submit your predicted labels: [Test-stage CodaLab](https://codalab.lisn.upsaclay.fr/competitions/22934)
 
 Thank you for your understanding and continued participation.
 
