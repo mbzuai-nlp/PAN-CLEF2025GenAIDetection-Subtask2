@@ -24,7 +24,7 @@ Accurately distinguishing between these categories will enhance our understandin
 
 
 ## NEWS 
-### 28 May2025
+### 28 May 2025
 We apologise for the delay and incidents with CodaLab. We are happy to release the results of the competition, kindly find them at [LeaderBoard](https://docs.google.com/spreadsheets/d/1JhbaxNihuikdfrQJdnxVEj4pmtILysmuuE5fdWXhOvk/edit?gid=2139688825#gid=2139688825).
 
 
