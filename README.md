@@ -24,6 +24,10 @@ Accurately distinguishing between these categories will enhance our understandin
 
 
 ## NEWS 
+### 28 May2025
+We apologise for the delay and incidents with CodaLab. We are happy to release the results of the competition, kindly find them at [LeaderBoard](https://docs.google.com/spreadsheets/d/1JhbaxNihuikdfrQJdnxVEj4pmtILysmuuE5fdWXhOvk/edit?gid=2139688825#gid=2139688825).
+
+
 ### 20 May 2025
 #### 📢 Announcement for Participants
 We sincerely apologize for the delay in releasing the test set. To ensure all teams have sufficient time, we have decided to extend the submission deadline to **24 May (AOE time)**.
